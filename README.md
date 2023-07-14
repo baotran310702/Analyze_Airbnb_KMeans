@@ -1,9 +1,9 @@
 <h1>Report</h1>
 
-1. Thống kê các căn hộ theo từng vùng (neiborhood_group) có lần review gần nhất trong tháng 10 năm 2018 (**Rollup theo các quận, trải đều theo từng tháng)
+1. Thống kê các căn hộ theo từng vùng (neiborhood_group) có lần review gần nhất trong tháng 10 năm 2018 **(Rollup theo các quận, trải đều theo từng tháng)**
 2. Thống kê các căn hộ có số đêm tối thiểu để đặt chỗ là 1 hoặc 3 đêm, giá thuê dưới 50$ và ở vùng Stalen Island.
-**. (Slide and Dice) 
-3. Thống kê các căn hộ có loại phòng là "Private Room" theo các quận thuộc Bronx (**Driff Down**) (
+**(Slide and Dice)** 
+3. Thống kê các căn hộ có loại phòng là "Private Room" theo các quận thuộc Bronx (**Driff Down**)
 4. Thống kê các thông tin vê các căn hộ có chủ hộ tên là Aron hoặc John , có số lượng reiview trung bình mỗi tháng lớn hơn 1. **(Slice and Dice)**
 5. Thống kê thống tin các căn hộ có số lượng review lần cuối theo tháng vào năm 2019 và theo quận thuộc Queens. **(Pivot)**
 6. Thống kê tên các chủ hộ thuộc Brooklyn theo các quận mà sở hữu trên 10 căn.
