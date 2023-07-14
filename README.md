@@ -1,3 +1,6 @@
+<h1>KMeans</h1>
+
+
 <h1>Report</h1>
 1. Statistical analysis of apartments by neighborhood groups with the most recent review in October 2018 (Roll up by district, evenly distributed by month).</br>
 2. Statistical analysis of apartments with a minimum stay of 1 or 3 nights, rental price below $50, and located in the Stalen Island neighborhood. (Slice and dice).</br>
