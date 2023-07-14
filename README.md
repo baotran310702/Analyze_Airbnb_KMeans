@@ -1,17 +1,13 @@
 <h1>Report</h1>
-
-1. Thống kê các căn hộ theo từng vùng (neiborhood_group) có lần review gần nhất trong tháng 10 năm 2018 **(Rollup theo các quận, trải đều theo từng tháng)**
-2. Thống kê các căn hộ có số đêm tối thiểu để đặt chỗ là 1 hoặc 3 đêm, giá thuê dưới 50$ và ở vùng Stalen Island.
-**(Slide and Dice)** 
-3. Thống kê các căn hộ có loại phòng là "Private Room" theo các quận thuộc Bronx (**Driff Down**)
-4. Thống kê các thông tin vê các căn hộ có chủ hộ tên là Aron hoặc John , có số lượng reiview trung bình mỗi tháng lớn hơn 1. **(Slice and Dice)**
-5. Thống kê thống tin các căn hộ có số lượng review lần cuối theo tháng vào năm 2019 và theo quận thuộc Queens. **(Pivot)**
-6. Thống kê tên các chủ hộ thuộc Brooklyn theo các quận mà sở hữu trên 10 căn.
-**(Drill down theo khu vực có slice)**
-7. Thống kê  thông tin căn hộ  thuộc vùng Queens hoặc Manhattan có giá thuê 100$. **(Slice and Dice)**
-8. Thống kê số lượng review mỗi tháng của các căn hộ của những chủ hộ tên John
-tại vùng Queens theo các quận. **(Drill down theo vùng)**
-9. Thống kê số lượng căn hộ có số đêm thuê tối thiểu là 3 hoặc 4 thuộc loại phòng “Shared Room” và có số lượng Review mỗi tháng lớn hơn 1 .	**(Slice and dice)**
-10. Thống kê căn hộ có giá là 50$ của khu vực Manhattan có số lượng review trên 100 và số ngày sẵn sàng được sử dụng trong năm lớn hơn 200.
-11. Thống kê 5 căn hộ có giá cao nhất ở khu vực “Queens” quận “Astoria”.
-12. Thống kê những chủ hộ ở Midtown thuộc khu vực Manhattat sở hữu trên 5 căn hộ.
+1. Statistical analysis of apartments by neighborhood groups with the most recent review in October 2018 (Roll up by district, evenly distributed by month).
+2. Statistical analysis of apartments with a minimum stay of 1 or 3 nights, rental price below $50, and located in the Stalen Island neighborhood. (Slice and dice).
+3. Statistical analysis of apartments with "Private Room" type in the Bronx neighborhoods. (Drill down).
+4. Statistical analysis of information about apartments owned by hosts named Aron or John, with an average monthly review count greater than 1. (Slice and dice).
+5. Statistical analysis of information about apartments with the last review count in each month of 2019, categorized by Queens neighborhoods. (Pivot).
+6. Statistical analysis of host names in Brooklyn by districts where they own more than 10 apartments. (Drill down with slicing).
+7. Statistical analysis of apartment information in Queens or Manhattan neighborhoods with a rental price of $100. (Slice and dice).
+8. Statistical analysis of the monthly review count for apartments owned by hosts named John in Queens neighborhoods, categorized by districts. (Drill down by neighborhood).
+9. Statistical analysis of the number of apartments with a minimum stay of 3 or 4 nights, belonging to the "Shared Room" type, and having a monthly review count greater than 1. (Slice and dice).
+10. Statistical analysis of apartments in the Manhattan area with a price of $50, a review count above 100, and availability for more than 200 days in a year.
+11. Statistical analysis of the top 5 highest-priced apartments in the "Astoria" district of Queens.
+12. Statistical analysis of hosts in Midtown, Manhattan area, who own more than 5 apartments.
