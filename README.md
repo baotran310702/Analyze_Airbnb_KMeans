@@ -1,4 +1,4 @@
-<h1>Report trả lời cho các kết quả theo từng sheet </h1>
+<h1>Report</h1>
 
 1. Thống kê các căn hộ theo từng vùng (neiborhood_group) có lần review gần nhất trong tháng 10 năm 2018 (**Rollup theo các quận, trải đều theo từng tháng) (Còn Power BI)**
 2. Thống kê các căn hộ có số đêm tối thiểu để đặt chỗ là 1 hoặc 3 đêm, giá thuê dưới 50$ và ở vùng Stalen Island.
