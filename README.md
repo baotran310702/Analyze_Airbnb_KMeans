@@ -4,11 +4,20 @@
 <h1>KMeans</h1>
 - Using Heatmap to find out correlations attributes left.
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689937130/pictureOfBugs/HeatMapKMean_ue0rep.jpg?_s=public-apps"/>
+
 - Calculate Sum Square Error to detect numbers of clusters.
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689939548/pictureOfBugs/sum_square_err_zaiwby.png" />
+
 - Visualize clusters with reduced_values
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689939664/pictureOfBugs/visualize_cluster_beoszi.jpg?_s=public-apps" />
 
+- Using boxplot to see correlation between analyze value and clusters such as price, availability_365, minimun_nights
+<img 
+src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689940053/pictureOfBugs/boxplot_gpirfv.png" />
+
+- Show the percentage of attribute address in clusters.
+<img
+src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689940216/pictureOfBugs/barrchart_kkxgfa.png" />
 
 <h1>Report</h1>
 1. Statistical analysis of apartments by neighborhood groups with the most recent review in October 2018 (Roll up by district, evenly distributed by month).</br>
