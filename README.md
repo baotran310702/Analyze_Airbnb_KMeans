@@ -6,7 +6,8 @@
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689937130/pictureOfBugs/HeatMapKMean_ue0rep.jpg?_s=public-apps"/>
 - Calculate Sum Square Error to detect numbers of clusters.
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689939548/pictureOfBugs/sum_square_err_zaiwby.png" />
-
+- Visualize clusters with reduced_values
+<img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689939664/pictureOfBugs/visualize_cluster_beoszi.jpg?_s=public-apps" />
 
 
 <h1>Report</h1>
