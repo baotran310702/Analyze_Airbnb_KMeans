@@ -3,7 +3,7 @@
 - KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type
 <h1>KMeans</h1>
 - Using Heatmap to find out correlations attributes.
-<img src="https://drive.google.com/file/d/1FQf6dMAfV7Mg9pLDjvhP0Dz8hMjQy5BJ/view?usp=drive_link"/>
+<img src="https://asset.cloudinary.com/dxhsadna0/de82e65a4ac3c4b731e4aaf32b0f58cf"/>
 - Using 
 
 <h1>Report</h1>
