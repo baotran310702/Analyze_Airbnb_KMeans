@@ -1,5 +1,10 @@
+<h1>Preprocessing</h1>
+- Drop useless columns like host_id, host_name, id, name and columns that contains large missing values like last_review and reviews_per_month.
+- KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type
 <h1>KMeans</h1>
-
+- Using Heatmap to find out correlations attributes.
+<img src="https://drive.google.com/file/d/1FQf6dMAfV7Mg9pLDjvhP0Dz8hMjQy5BJ/view?usp=drive_link"/>
+- Using 
 
 <h1>Report</h1>
 1. Statistical analysis of apartments by neighborhood groups with the most recent review in October 2018 (Roll up by district, evenly distributed by month).</br>
