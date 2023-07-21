@@ -1,6 +1,8 @@
-<h1>Preprocessing</h1>
-- Drop useless columns like host_id, host_name, id, name and columns that contains large missing values like last_review and reviews_per_month.
-- KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type
+<h1>Preprocessing</h1><br/>
+
+- Drop useless columns like host_id, host_name, id, name and columns that contains large missing values like last_review and reviews_per_month. <br/>
+
+- KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type.<br/>
 <h1>KMeans</h1>
 
 - Using Heatmap to find out correlations attributes left.<br/>
