@@ -50,9 +50,9 @@ src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689940216/pictureOfBugs
 8. Statistical analysis of the monthly review count for apartments owned by hosts named John in Queens neighborhoods, categorized by districts (Drill down by neighborhood). </br>
 
 9. Statistical analysis of the number of apartments with a minimum stay of 3 or 4 nights, belonging to the "Shared Room" type, and having a monthly review count greater than 1. (Slice and dice).</br>
-10. 
-11. Statistical analysis of apartments in the Manhattan area with a price of $50, a review count above 100, and availability for more than 200 days in a year.</br>
 
-12. Statistical analysis of the top 5 highest-priced apartments in the "Astoria" district of Queens.</br>
+10. Statistical analysis of apartments in the Manhattan area with a price of $50, a review count above 100, and availability for more than 200 days in a year.</br>
 
-13. Statistical analysis of hosts in Midtown, Manhattan area, who own more than 5 apartments.</br>
+11. Statistical analysis of the top 5 highest-priced apartments in the "Astoria" district of Queens.</br>
+
+12. Statistical analysis of hosts in Midtown, Manhattan area, who own more than 5 apartments.</br>
