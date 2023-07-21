@@ -5,7 +5,7 @@
 - Using Heatmap to find out correlations attributes left.
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689937130/pictureOfBugs/HeatMapKMean_ue0rep.jpg?_s=public-apps"/>
 - Calculate Sum Square Error to detect numbers of clusters.
-<img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689938842/pictureOfBugs/sum_square_err_jenj9g.jpg?_s=public-apps"/>
+<img src="[https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689938842/pictureOfBugs/sum_square_err_jenj9g.jpg?_s=public-apps](https://res.cloudinary.com/dxhsadna0/image/upload/v1689939548/pictureOfBugs/sum_square_err_zaiwby.png)"/>
 
 
 
