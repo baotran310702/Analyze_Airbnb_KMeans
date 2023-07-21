@@ -2,7 +2,7 @@
 - Drop useless columns like host_id, host_name, id, name and columns that contains large missing values like last_review and reviews_per_month.
 - KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type
 <h1>KMeans</h1>
-- Using Heatmap to find out correlations attributes.
+- Using Heatmap to find out correlations attributes left.
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689937130/pictureOfBugs/HeatMapKMean_ue0rep.jpg?_s=public-apps"/>
 - Using 
 
