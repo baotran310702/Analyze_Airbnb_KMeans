@@ -3,20 +3,25 @@
 - KMeans is a clustering algorithm, so qualitative columns will be transformed to quatitative values using one-hot-encoding method with neighbourhood_group, neighbourhood, room_type
 <h1>KMeans</h1>
 
-- Using Heatmap to find out correlations attributes left.
+- Using Heatmap to find out correlations attributes left.<br/>
+
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689937130/pictureOfBugs/HeatMapKMean_ue0rep.jpg?_s=public-apps"/>
 
 - Calculate Sum Square Error to detect numbers of clusters.<br/>
+
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689939548/pictureOfBugs/sum_square_err_zaiwby.png" /><br/>
 
 - Visualize clusters with reduced_values<br/>
+
 <img src="https://res.cloudinary.com/dxhsadna0/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1689939664/pictureOfBugs/visualize_cluster_beoszi.jpg?_s=public-apps" /><br/>
 
 - Using boxplot to see correlation between analyze value and clusters such as price, availability_365, minimun_nights. <br/>
+
 <img 
 src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689940053/pictureOfBugs/boxplot_gpirfv.png" /><br/>
 
 - Show the percentage of attribute address in clusters.<br/>
+
 <img
 src="https://res.cloudinary.com/dxhsadna0/image/upload/v1689940216/pictureOfBugs/barrchart_kkxgfa.png" /><br/>
 
