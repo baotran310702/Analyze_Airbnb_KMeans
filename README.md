@@ -1,4 +1,4 @@
-<h1>Preprocessing</h1><br/>
+<h1>Preprocessing</h1>
 
 - Drop useless columns like host_id, host_name, id, name and columns that contains large missing values like last_review and reviews_per_month. <br/>
 
